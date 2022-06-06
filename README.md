@@ -1,0 +1,2 @@
+As in today’s time covid19 a pandemic disease spreading in all countries our application will give exact live data of cases of States (of India) and of other Countries.
+This project aims towards helping people and giving them live data as per their need and take hand in helping in this pandemic situation.This program gives you data in the form of bar chart which can be zoom in  to view the exact cases.
